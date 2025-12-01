@@ -1,3 +1,9 @@
+# This repository has been archived and will no longer receive updates. 
+
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+
+If you are a Chef customer and need support for this repository, please contact your Chef account team.
+
 # Docker Buildkite Plugin ![Build status](https://badge.buildkite.com/3a4b0903b26c979f265c049c932fb4ff3c055af7a199a17216.svg?branch=master)
 
 A [Buildkite plugin](https://buildkite.com/docs/agent/v3/plugins) for running pipeline steps in [Docker](https://www.docker.com/) containers.
